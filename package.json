@@ -41,7 +41,8 @@
     "http-auth": "^4.1.9",
     "is-admin": "^3.0.0",
     "netaddr": "^1.1.0",
-    "uuid": "^9.0.1"
+    "uuid": "^9.0.1",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
 
