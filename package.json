@@ -1,0 +1,49 @@
+{
+  "name": "acep-meta-api",
+  "version": "1.0.0",
+  "description": "ACEP Organizational Meta Data API",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": ">= 14.0.0",
+    "npm": ">= 6.0.0"
+  },
+  "homepage": "https://github.com/jehaverlack/acep-meta-api",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jehaverlack/acep-meta-api.git"
+  },
+  "bugs": "",
+  "keywords": [],
+  "author": {
+    "name": "John Haverlack",
+    "email": "jehaverlack@alaska.edu",
+    "url": "https://www.uaf.edu/acep/about/our-team/john-haverlack.php"
+  },
+  "copyright": "© 2024 Alaska Center for Energy and Power, University of Alaska Fairbanks",
+  "copyright_holder": "Alaska Center for Energy and Power, University of Alaska Fairbanks",
+  "copyright_url": "https://acep.uaf.edu/",
+  "copyright_year": "2024",
+  "contributors": [
+
+  ],
+  "scripts": {
+    "dev": "",
+    "test": "",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ecstatic": "^4.1.4",
+    "express": "^4.17.1",
+    "htpasswd": "^2.4.5",
+    "http-auth": "^4.1.9",
+    "is-admin": "^3.0.0",
+    "netaddr": "^1.1.0",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+
+  }
+}
